@@ -6,7 +6,7 @@ Python 数据分析课程的每周作业仓库 · 按周归档 · 持续更新
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Course](https://img.shields.io/badge/课程-Python数据分析-blue?style=flat-square)
-![Status](https://img.shields.io/badge/进度-Week%202-orange?style=flat-square)
+![Status](https://img.shields.io/badge/进度-Week%204-orange?style=flat-square)
 
 </div>
 
@@ -22,7 +22,8 @@ Python 数据分析课程的每周作业仓库 · 按周归档 · 持续更新
 |:---:|:---|:---|:---:|
 | Week 1 | [`week01/`](./week01) | 第一个 Python 程序 `hello.py` | ✅ 已完成 |
 | Week 2 | [`week02/`](./week02) | 残差证明、R² 思考题、Carseats 多元回归与 VIF 分析 | ✅ 已完成 |
-| Week 3 | `week03/` | 待更新 | ⏳ 未开始 |
+| Week 3 | [`week03/`](./week03) | Ridge、Lasso、Elastic Net：推导、标准化与 Hitters 实战 | ✅ 已完成 |
+| Week 4 | [`week04/`](./week04) | Kaggle Netflix 数据的 Elastic Net 回归分析 | ✅ 已完成 |
 
 > 💡 表格随课程进度持续更新，每周新增一个作业文件夹。
 
@@ -35,6 +36,12 @@ Python_Date_Analysis/
 ├── week02/               # 第 2 周作业
 │   ├── solutions.md      # 证明题与思考题解答
 │   └── hw_carseats.py    # Carseats 多元回归与 VIF 分析
+├── week03/               # 第 3 周作业
+│   ├── solutions.md      # 作业 1、3、4 解答（作业 2 未完成）
+│   └── regularized_regression.py
+├── week04/               # 第 4 周作业
+│   ├── README.md
+│   └── elastic_net_netflix.py
 └── README.md             # 项目说明文档
 ```
 
