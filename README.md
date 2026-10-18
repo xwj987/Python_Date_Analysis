@@ -6,7 +6,7 @@ Python 数据分析课程的每周作业仓库 · 按周归档 · 持续更新
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Course](https://img.shields.io/badge/课程-Python数据分析-blue?style=flat-square)
-![Status](https://img.shields.io/badge/进度-Week%202-orange?style=flat-square)
+![Status](https://img.shields.io/badge/进度-Week%203-orange?style=flat-square)
 
 </div>
 
@@ -22,7 +22,7 @@ Python 数据分析课程的每周作业仓库 · 按周归档 · 持续更新
 |:---:|:---|:---|:---:|
 | Week 1 | [`week01/`](./week01) | 第一个 Python 程序 `hello.py` | ✅ 已完成 |
 | Week 2 | [`week02/`](./week02) | 残差证明、R² 思考题、Carseats 多元回归与 VIF 分析 | ✅ 已完成 |
-| Week 3 | `week03/` | 待更新 | ⏳ 未开始 |
+| Week 3 | [`week03/`](./week03) | SVM 对 Spambase 垃圾邮件数据集分类（线性核/RBF 核/调参/对比分析） | ✅ 已完成 |
 
 > 💡 表格随课程进度持续更新，每周新增一个作业文件夹。
 
@@ -35,6 +35,11 @@ Python_Date_Analysis/
 ├── week02/               # 第 2 周作业
 │   ├── solutions.md      # 证明题与思考题解答
 │   └── hw_carseats.py    # Carseats 多元回归与 VIF 分析
+├── week03/               # 第 3 周作业：SVM 垃圾邮件分类
+│   ├── README.md         # 实验分析报告
+│   ├── svm_spambase.py   # SVM 分类完整代码
+│   ├── data/             # Spambase 数据集（UCI）
+│   └── figures/          # 混淆矩阵、ROC 曲线
 └── README.md             # 项目说明文档
 ```
 
