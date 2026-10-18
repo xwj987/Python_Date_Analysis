@@ -1,4 +1,4 @@
-# Week 3 作业：使用 SVM 对 Spambase 垃圾邮件数据集分类
+# Week 5 作业：使用 SVM 对 Spambase 垃圾邮件数据集分类
 
 ## 一、作业要求
 
@@ -124,6 +124,6 @@ pandas, numpy, scikit-learn, matplotlib
 复现方式：
 
 ```bash
-cd week03
+cd week05
 python svm_spambase.py
 ```
