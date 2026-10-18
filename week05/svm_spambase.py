@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Week 3 作业：使用 SVM 对 Spambase（垃圾邮件）数据集做分类
+Week 5 作业：使用 SVM 对 Spambase（垃圾邮件）数据集做分类
 
 数据来源：UCI Machine Learning Repository - Spambase
     https://archive.ics.uci.edu/dataset/94/spambase
