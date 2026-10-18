@@ -1,0 +1,2 @@
+source,rows_used,alpha,l1_ratio,test_rmse,test_mae,test_r2,nonzero_coefficients
+Kaggle: shivamb/netflix-shows,6128,0.001791284454622004,0.65,18.957012456030174,13.995603178433932,0.4923554206493451,245
